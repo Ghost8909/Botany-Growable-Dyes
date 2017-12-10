@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "botanygrowabledyes",
+  "name": "Botany: Growable Dyes",
+  "description": "Adds growable Flowers, and thus Dyes, to Minecraft.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Ghost8909"],
+  "credits": "Ghost8909",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
